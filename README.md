@@ -18,11 +18,11 @@ Every time the user accesses the system, a Cookie is used to remember the login,
 
 Login Page             
 :-------------------------:
-![Login Page]()
+![Login Page](https://raw.githubusercontent.com/MarceloPasquiniB/nextjs-system-template/main/Screenshots/Login_page.png?token=AUIM4TZ7JOGHQZXF5Q4ITWTBKIWU2)
 
 Dark Theme
 :-------------------------:
-![Dark Theme]()
+![Dark Theme](https://raw.githubusercontent.com/MarceloPasquiniB/nextjs-system-template/main/Screenshots/dark_mode.png?token=AUIM4TZRQZVJO6T7Y7QUV63BKIWU6)
 
 
 ## 🚫 System validations
